@@ -1,6 +1,19 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: <p align="center"> Anubhav Mishra </p>
+logo: /assets/img/mishra1anubhav@gmail.com.jpg
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/anubhav-mishra-b560b3132/">LinkedIn</a> |
+  <a href="https://github.com/Anubhav0209">GitHub</a>
+  
+  <br>   
+  Working in EdTech domain for 3 years.
+  Front-end Developer
+  SME
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
